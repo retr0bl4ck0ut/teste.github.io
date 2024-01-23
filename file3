@@ -1,0 +1,3 @@
+document.getElementById('magicButton').addEventListener('click', function() {
+    alert('Magia acontecendo! Este é um site complexo.');
+});
